@@ -128,7 +128,7 @@ MCRcortex has no involvement in Meshelium, has not endorsed it, and is not respo
 
 - **Bobby** by **Johni0702**, the perfect partner for playing online
 - The **Fabric** team, for the loader and Fabric API, and the **NeoForge** team for the other loader
-- Meshelium is by **Ded811**. Copyright (C) 2026
+- Meshelium is by **ajz811**. Copyright (C) 2026
 - License: **LGPL-3.0-only**, the same license Nvidium uses
 
 Want the deep version? It is in [TECHNICAL.md](docs/TECHNICAL.md) and [PERFORMANCE.md](docs/PERFORMANCE.md).
